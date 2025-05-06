@@ -1,4 +1,5 @@
 # Contributing to the Linera protocol
+<!-- Minor edit to test contribution -->
 
 ## Issues
 
